@@ -1,0 +1,53 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Cache files
+.cache/
+.cache-loader/
+.webpack/
+.bower/
+
+# Dependency directories
+vendor/
+dependencies/
+libs/
+
+# IDE and editor files
+.idea/
+.vscode/
+.atom/
+.sublime-text/
+.sublimetext/
+
+# Log files
+logs/
+log/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Build and dist files
+build/
+dist/
+*.min.js
+*.min.css
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Other ignore files
+.env
+.env.*
+*.seed
+*.seed.*
+coverage/
+*.coverage
+*.lcov
